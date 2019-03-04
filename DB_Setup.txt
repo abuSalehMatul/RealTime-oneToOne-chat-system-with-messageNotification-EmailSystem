@@ -1,0 +1,12 @@
+///////////////////////////////////  Using Migration  Command /////////////////////////
+
+1.Create a database withname hi5.
+2.Run Command php artisan migrate to migrate all tables to database.
+3.Create each table using migration.
+
+
+/////////////////////////////////// Manually /////////////////////////
+
+
+1.Create a database withname hi5.
+2.import the hi5_Database.sql file .
